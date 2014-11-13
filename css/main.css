@@ -1,0 +1,64 @@
+body{
+	padding:3%;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+.nav{
+
+	font-family: 'Comfortaa', cursive;
+	background-color: #dadada;
+	height:80px;
+	color:#1a79ff;
+	padding:2%;
+	border-radius: 10px;
+
+}
+
+.zipcode{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.inputZipCode{
+	font-family: 'Lato', sans-serif;
+	border-radius:5px;
+	font-size:15px;
+	padding:2px;
+	border-style:solid;
+	border-color:#dadada;
+}
+
+.buttonSearch{
+	font-family: 'Lato', sans-serif;
+	border-radius:5px;
+	border-style:solid;
+	border-color:#dadada;
+	font-size:15px;
+	background-color: #dadada;
+	color:#1a79ff;
+	cursor:pointer;
+}
+
+.noMatch{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+table a{
+	text-decoration: none;
+	color:#4e97ff;
+}
+
+#list_dayForecast{
+	text-align: left !important;
+	margin:auto;
+	margin-top:30px;
+	font-size:20px;
+ 	border-spacing: 20px;
+}
+
+.weekday{
+	color:#1a79ff;
+	font-family: 'Comfortaa', cursive;
+}
